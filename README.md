@@ -1,7 +1,8 @@
 # Patika Store
 Patika react native eğitimlerindeki ilk ödev projemdir.
 
-![image](https://github.com/Metecode/patika-store/assets/71905780/18f6cfe5-8028-4652-869e-dae3cd0010d6)
+![image](https://github.com/Metecode/patika-store/assets/71905780/2644a7ea-ed75-4494-b0b0-7d8565f4f82c)
+
 
 ## Getting Started
 
