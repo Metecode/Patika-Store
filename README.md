@@ -1,6 +1,9 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Patika Store
+Patika react native eğitimlerindeki ilk ödev projemdir.
 
-# Getting Started
+![image](https://github.com/Metecode/patika-store/assets/71905780/18f6cfe5-8028-4652-869e-dae3cd0010d6)
+
+## Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
